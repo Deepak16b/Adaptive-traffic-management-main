@@ -22,12 +22,11 @@ An AI-powered system that uses real-time data, computer vision, and machine lear
 
 ---
 
-## 📁 Project Structure
 Adaptive-Traffic-Management/
 ├── Code/
-│ ├── YOLO/ # Vehicle detection
-│ ├── Data Processing/ # Preprocessing scripts
-│ ├── API Backend/ # Flask or FastAPI services
+│   ├── YOLO/              # Vehicle detection
+│   ├── Data Processing/   # Preprocessing scripts
+│   └── API Backend/       # Flask or FastAPI services
 ├── README.md
 ├── Demo.mp4
 ├── Report.pdf
