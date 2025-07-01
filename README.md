@@ -23,14 +23,15 @@ An AI-powered system that uses real-time data, computer vision, and machine lear
 ---
 
 Adaptive-Traffic-Management/
+│
 ├── Code/
-│   ├── YOLO/              # Vehicle detection
-│   ├── Data Processing/   # Preprocessing scripts
-│   └── API Backend/       # Flask or FastAPI services
-├── README.md
-├── Demo.mp4
-├── Report.pdf
-
+│   ├── YOLO/                → Vehicle detection
+│   ├── Data Processing/     → Preprocessing scripts
+│   └── API Backend/         → Flask or FastAPI services
+│
+├── README.md                → Project documentation
+├── Demo.mp4                 → Demonstration video
+├── Report.pdf               → Final report
 
 ---
 
