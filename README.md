@@ -1,42 +1,44 @@
-🚦 Adaptive Traffic Management System – Quick Setup Guide
-📌 Overview
-An AI-powered system that uses real-time data, computer vision, and machine learning to smartly control traffic signals and reduce congestion.
+# 🚦 Adaptive Traffic Management System – Quick Setup Guide
 
-🎯 Key Features
-🚗 Real-Time Vehicle Detection: Uses YOLO to count vehicles at intersections.
+## 📌 Overview
+An AI-powered system that uses real-time data, computer vision, and machine learning to control traffic signals and reduce congestion.
 
-🕒 Smart Signal Timing: Automatically adjusts signal durations based on traffic.
+---
 
-📡 Cloud & IoT Support: Remote monitoring and analytics.
+## 🎯 Key Features
+- 🚗 **Real-Time Vehicle Detection:** YOLO detects vehicles at intersections.
+- 🕒 **Smart Signal Timing:** Automatically adjusts traffic signal durations.
+- 🛰️ **Cloud & IoT Support:** Enables remote monitoring and analytics.
+- 📊 **Traffic Prediction:** ML models predict peak congestion times.
+- ⚡ **Scalable Design:** Works for both city and suburban areas.
 
-📉 Traffic Prediction: Machine learning predicts peak hours.
+---
 
-⚡ Scalable Design: Works in both city and town environments.
+## 🛠️ Technologies Used
+- **Python:** OpenCV, NumPy, Pandas
+- **YOLO:** Vehicle detection
+- **Flask / FastAPI:** Backend APIs
+- **GitHub + Git LFS:** Version control
 
-🛠️ Technologies Used
-Python: OpenCV, NumPy, Pandas
+---
 
-YOLO: Object detection
-
-Flask / FastAPI: Backend API
-
-GitHub + Git LFS: Version control
-
-📂 Project Structure
-bash
-Copy
-Edit
+## 📁 Project Structure
 Adaptive-Traffic-Management/
 ├── Code/
-│   ├── YOLO/              # Vehicle detection
-│   ├── Data Processing/   # Preprocessing scripts
-│   ├── API Backend/       # Flask or FastAPI services
+│ ├── YOLO/ # Vehicle detection
+│ ├── Data Processing/ # Preprocessing scripts
+│ ├── API Backend/ # Flask or FastAPI services
 ├── README.md
 ├── Demo.mp4
 ├── Report.pdf
-📌 Setup Instructions
-📥 Download Required Files:
-https://drive.google.com/file/d/15vO1Oinw9GDFGZ1fxcRSS_X9cMZ7fm6c/view?usp=drivesdk
 
-📝 Follow Text Instructions:
-Read the provided .txt file in the project folder for setup steps.
+
+---
+
+## 📌 Setup Instructions
+
+1. 📥 **Download Required Files:**  
+   [Google Drive Link](https://drive.google.com/file/d/15vO1Oinw9GDFGZ1fxcRSS_X9cMZ7fm6c/view?usp=drivesdk)
+
+2. 📝 **Read the Setup Guide:**  
+   Check the included `.txt` file for additional setup steps.
